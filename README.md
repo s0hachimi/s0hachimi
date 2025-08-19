@@ -1,6 +1,6 @@
 <!-- README.md for your GitHub profile -->
 
-<h1 align="center">Hi there, I'm sofiane 👋</h1>
+<h1 align="center">Hi there, I'm soufiane 👋</h1>
 <h3 align="center">🚀 Full-Stack Developer && Aspiring Cybersecurity Developer | 🦀 Rust • 🐹 Go • ⚡ JS</h3>
 
 ---
