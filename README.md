@@ -65,17 +65,6 @@
 ---
 
 
-### 🚧 Projects
-
-Here are some things I'm working on / planning to:
-
-- 🔎 `rustscan-plus` — Lightning-fast port scanner built with Rust
-- 🐚 `gopayload` — Go-powered payload generator for red team use
-- 🔧 `js-keylogger` — Lightweight JS-based keylogger for research only 🔬  
-
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/soufiane-hachimi-19a262324)
